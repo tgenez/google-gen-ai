@@ -1,0 +1,34 @@
+
+----------------- EXAMPLE 1 -----------------------
+
+Bonjour,
+
+Je vous informe que le projet ne va null part, il faut impérativement changé le cycle developpement avec problème de communication
+
+Cordialement,
+
+Reformule pour être profesionnel dans un contexte de projet informatique
+
+----------------- EXAMPLE 2 -----------------------
+
+Bonjour,
+
+Je n'ai pas réussi à respecter les délais de la tâches. Il y a eu des imprévus. Il faudrait discuter ensemble du sujet.
+
+Cordialement,
+
+Reformule pour être profesionnel dans un contexte de projet informatique
+
+----------------- EXAMPLE 3 -----------------------
+
+Résumé des réalisations sur la mission
+
+Fait:
+
+J'ai fais mise en place de l'api de base, j'ai pu avancé sur la mise en place de la base de donnée. J'ai pu faire tout ça en terraforme
+
+Reste à faire
+
+Il faut continuer à coder les fonctionnalités de l'api. Il faudra voir avec vos équipes internes pour les règles réseaux souhaités
+
+Reformule de façon organisé pour que ça puisse être envoyé par email à un client

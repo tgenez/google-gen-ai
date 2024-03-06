@@ -3,9 +3,9 @@
 
 ## Comment ça marche ?
 
-* Basé sur des modèles de language qu'on appelle un grand modèle de langage (*LLM*)
-* Méthode commune d'entrainement: apprentissage supervisé
-* Il y a d'autres méthode d'entrainements
+* *modèles de langage de grande taille (LLM)* analyses d'énormes quantités de données.
+* *Apprentissage supervisé* qui fournit au LLM des exemples de contenu à générer, ainsi que les instructions et les formats correspondants. Le LLM apprend ensuite à générer du contenu similaire à partir de nouveaux exemples.
+* *Apprentissage par renforcement*, où le LLM est récompensé pour la production de contenu pertinent et engageant.
 <!-- .element: class="list-fragment" -->
 
 Notes:
@@ -38,15 +38,22 @@ L'IA générative traite un grand volume de contenus, générant des insights et
 
 ## Application pour le code
 
-L'IA peut permettre plusieurs choses
-* code generation
-* code refactoring
-* code completion
-* code explanation
-* code documentation
-* code testing.
+L'IA peut aider les développeurs de plusieurs manières :
+* Génération de code
+* Refactoring de code
+* Explication de code
+* Documentation de code
+* Test de code
 <!-- .element: class="list-fragment" -->
 
 Notes:
 
-Utilisation pour du code
+* Génération de code: L'IA peut générer du code à partir de descriptions textuelles, ce qui peut aider les développeurs à gagner du temps et à se concentrer sur des tâches plus complexes.
+
+* Refactoring de code: L'IA peut aider à refactoriser le code, c'est-à-dire à le rendre plus propre, plus lisible et plus efficace.
+
+* Explication de code: L'IA peut expliquer le fonctionnement du code, ce qui peut être utile pour les développeurs débutants ou pour ceux qui travaillent sur un code complexe.
+
+* Documentation de code: L'IA peut générer automatiquement de la documentation pour le code, ce qui peut faire gagner du temps aux développeurs.
+
+* Test de code: L'IA peut aider à tester le code en générant des cas de test et en identifiant les bugs.

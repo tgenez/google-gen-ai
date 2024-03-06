@@ -1,0 +1,7 @@
+----------------- EXAMPLE 1 -----------------------
+
+Context: rédaction d'une explication sur les besoins d'un lift and shift dans projet on-premise sur le cloud GCP
+
+Il faut rédiger une partie qui explique le concept de lift and shift
+Lister les actions à préparer avant d'entreprendre une tel migration
+

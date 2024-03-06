@@ -6,6 +6,7 @@
 
 # Google et gen'ai
 
-- outil avec beaucoup de possibilités
-- continue à se développer tous les mois
+- Outil avec beaucoup de possibilités
+- Continue à se développer tous les mois
+- Gagner en productivité 
 

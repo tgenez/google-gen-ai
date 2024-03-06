@@ -13,11 +13,26 @@ function introSlides() {
   return [
     '01-intro/00-transition.md',
     '01-intro/01-gen-ai.md',
-    '01-intro/02-comment-ca-marche.md',
-    '01-intro/03-chez-google.md',
-    '01-intro/04-demo.md'
+    '01-intro/02-comment-ca-marche.md'
   ];
 }
+
+function googleSlides() {
+  return [
+    '02-google/00-transition.md',
+    '02-google/01-chez-google.md',
+    '02-google/02-applications.md',
+    '02-google/03-duet-ai.md'
+  ];
+}
+
+function demoSlides() {
+  return [
+    '03-demo/00-transition.md',
+    '03-demo/01-demo.md'
+  ];
+}
+
 
 function conclusion() {
   return [
@@ -31,6 +46,8 @@ function formation() {
   return [
     ...schoolSlides(),
     ...introSlides(),
+    ...googleSlides(),
+    ...demoSlides(),
     ...conclusion()
   ].map((slidePath) => {
     return { path: slidePath };
