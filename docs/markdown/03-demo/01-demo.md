@@ -1,7 +1,7 @@
 
 <!-- .slide: class="with-code consolas" -->
 
-## Demo gemini grand public
+## Démonstration avec gemini grand public
 
 * Gemini pour génération d'email
 * Gemini pour donner des idées 
@@ -17,7 +17,7 @@ Gemini pour donner des idées  => folder demo/1_demo_gemini/2_idee.txt
 
 ##==##
 
-## Demo duet ai
+## Démonstration avec duet ai
 
 * Duet ai dans VSCODE 
 * Duet ai dans console GCP

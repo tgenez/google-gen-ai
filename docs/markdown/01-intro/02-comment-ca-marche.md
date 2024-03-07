@@ -3,10 +3,13 @@
 
 ## Comment ça marche ?
 
+
 * *modèles de langage de grande taille (LLM)* analyses d'énormes quantités de données.
+
 * *Apprentissage supervisé* qui fournit au LLM des exemples de contenu à générer, ainsi que les instructions et les formats correspondants. Le LLM apprend ensuite à générer du contenu similaire à partir de nouveaux exemples.
+
 * *Apprentissage par renforcement*, où le LLM est récompensé pour la production de contenu pertinent et engageant.
-<!-- .element: class="list-fragment" -->
+<!-- .element: class="list-fragment" style="margin-top: 10px"  -->
 
 Notes:
 
@@ -21,7 +24,9 @@ La méthode la plus courante pour entraîner un modèle d'IA générative consis
 ## Applications courantes de l'IA générative
 
 * Améliorer les interactions client grâce à des fonctionnalités optimisées de chat et de recherche
+
 * Explorer de grandes quantités de données non structurées via des interfaces de conversation et des résumés
+
 * Faciliter les tâches répétitives en répondant aux appels d'offres, en localisant le contenu marketing dans cinq langues et en vérifiant la conformité des contrats client, etc.
 <!-- .element: class="list-fragment" -->
 

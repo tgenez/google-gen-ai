@@ -5,3 +5,8 @@ Context: rédaction d'une explication sur les besoins d'un lift and shift dans p
 Il faut rédiger une partie qui explique le concept de lift and shift
 Lister les actions à préparer avant d'entreprendre une tel migration
 
+----------------- EXAMPLE 2 -----------------------
+
+Pour mon travail, je dois rédiger un document pour expliquer la gestion d'équpe de 10 personnes avec scrum et pourquoi avoir 1 PO et 1 scrum master avec 1 team leader c'est important et conseiller à avoir
+
+Rédige moi ce document et des pistes d'argumentations pour avoir ses 3 rôles
