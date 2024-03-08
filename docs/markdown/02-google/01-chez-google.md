@@ -8,6 +8,11 @@
 Notes:
 
 * GCP cloud platform qui héberge le tout Il y a model gardent avec plus de 130 modèles possibles
+Les développeurs peuvent tirer parti de nos puissants modèles de base pour intégrer des capacités d’IA de génération dans leurs applications afin d’obtenir des résultats transformateurs. Vertex AI combine la fonctionnalité du modèle de base avec la recherche et la conversation pour permettre aux développeurs de créer facilement et rapidement des chatbots, des voicebots, des recherches de connaissances et bien d'autres cas d'utilisation.
+
+Les praticiens de l'IA, comme les data scientists et les ingénieurs ML, peuvent facilement accéder aux modèles de base et aux outils nécessaires pour régler, déployer et surveiller ces modèles dans Vertex AI Platform.
+
+Et bien sûr, tout est construit sur notre infrastructure de classe mondiale, spécialement conçue pour les charges de travail d’IA.
 
 ##==##
 
