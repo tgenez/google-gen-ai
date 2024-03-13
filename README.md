@@ -20,3 +20,8 @@ Merci pour le projet github [sfeir-school-theme](https://github.com/sfeir-open-s
 
 Le sujet bouge beaucoup
 
+## Revealjs cheatSheet
+
+[revealjs-cheatSheet](https://gist.github.com/peeweek/55d6c2eb006d11c7da01fde974325f33)
+
+
