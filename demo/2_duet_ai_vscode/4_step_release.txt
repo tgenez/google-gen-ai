@@ -1,0 +1,12 @@
+The release begin with a new sprint 11.22.X with the old one version 11.21.X for the 1 project1
+
+1. At the begin of the sprint, I have some version 11.21.5
+2. You launch pipeline *gitlab-ci-global* manually with variable DEPLOY_VERSION *minor* or *major* => it will create version 11.22.0 for all projects
+3. So new development will create image tagged 11.22.0
+4. You need to put the first development of the sprint in UAT (after 1 week), you launch the pipeline  *gitlab-ci-global*  manually with variable DEPLOY_VERSION *patch* and activate the correct variable by project with true to deploy this project
+5. It will create a tag 11.22.0 on the project => it will launch the staging pipeline to create a release gitlab and change the helm yaml
+6. And the version will be incremented to 11.22.1 for this projects
+7. Repeat the point 4,5,6 until the final version for the production
+8. When you want to release in production, you need to go on each project and find the last tag pipeline and launch the last step production => it will update the helm yaml for the production configuration
+
+can you improve this with a more detailed explanation
