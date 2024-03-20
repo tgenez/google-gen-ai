@@ -38,7 +38,7 @@ Notes:
 
 Prérequis:
 
-* Un projet Google Cloud Platform (GCP) avec l'API Duet AI activée
+* Un projet Google Cloud Platform (GCP) avec l'API *Cloud AI Companion API* activée
 * Après mai 2024, un abonnement mensuel à Duet AI sera nécessaire.
 
 [cloudaicompanion.googleapis.com](https://console.cloud.google.com/marketplace/product/google/cloudaicompanion.googleapis.com?q=search&referrer=search)
